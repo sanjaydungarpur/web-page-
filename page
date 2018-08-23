@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Raja Babu | IIT Kanpur</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="z1vo7JWmdxFXlibj5bA6fzDtwvXzxIExq3IG5w-VZiw" />
+<meta name="keyword" content="raja babu,raja babu iitk,raja iitk, rajab iitk,courses material iitk,notes gallery iitk,raja babu 1259,rajababu1259,raja rkvvm,therkvvm,raja babu deoghar,raja babu kanpur,iitk examscheduler, mid sem scheduler iitk, end sem iitk">
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+<!-- css -->
+</style>
+
+</head>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+    <!-- The Grid -->
+    <div class="w3-row-padding">
+  
+        <!-- Left Column -->
+	    <div class="w3-quarter">
+    
+			<div class="w3-white w3-text-grey w3-card-4">
+				<div class="w3-display-container">
+					<img src="me.jpg" style="width:100%" alt="Profile Picture">
+					<div class="w3-display-bottomleft w3-container w3-text-black">
+						<h2 style="color:powderblue;"><a href="https://www.facebook.com/1752912681629042" target="_blank">Raja Babu</a></h2>
+					</div>
+				</div>
+				<div class="w3-container">
+					<p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>IIT Kanpur</p>
+					<p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Deoghar, Jharkhand (INDIA)</p>
+					<p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="mailto:rajab@iitk.ac.in">rajab@iitk.ac.in</a></p>
+					<p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>Contact: Hall-3 , IIT Kanpur-208016</p>
+					<hr>
+					<p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Education</b></p>
+					<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><a target="_blank" href="http://www.iitk.ac.in">Indian Institute of Technology, Kanpur</a> </h6>
+					<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><a target="_blank" href="https://www.allen.ac.in/">Allen Career Institute, Kota</a> </h6>
+					<!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><a target="_blank" href="https://redroseschooldeoghar.in">Red Rose 10+2 School, Deoghar</a> </h6> -->
+					<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><a target="_blank" href="http://www.therkvvm.org">The Ramakrishna Vivekananda Vidyamandir, Deoghar</a> </h6>
+					<hr>
+				</div>
+			</div>
+			<br>
+
+        <!-- End Left Column -->
+        </div>
+
+        <!-- Right Column -->
+        <div class="w3-threequarter">
+			<div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+				<h2 class="w3-text-grey"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xlarge w3-text-teal"></i>Informations</h2>
+			</div>
+		
+			<div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+				<h5 class="w3-opacity"><i class="fa fa-globe fa-fw w3-margin-right w3-large w3-text-teal w3-spin"></i><a href="https://apod.nasa.gov/apod/astropix.html"><b>Astronomy Picture of the Day: (NASA)</b></a><i class="fa fa-spinner w3-spin w3-large w3-margin-left"></i></h5>
+				<ul type="circle">
+					<li>Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. </li>
+					<li>Archive : <a href="https://apod.nasa.gov/apod/archivepix.html"> Discover the cosmos.</a> / <a href="https://apod.nasa.gov/apod/calendar/allyears.html">Calander View</a></li>
+				</ul>
+
+			</div>
+			<div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+				<h5 class="w3-opacity"><i class="fa fa-leanpub fa-fw w3-margin-right w3-large w3-text-teal"></i><b>Exam Scheduler</b></h5>
+				<ul type="circle">
+				<li>Check your <a href="http://home.iitk.ac.in/~rajab/exam-mid-sem.html"><b><u>Mid-Semester</u></b></a> and <a href="http://home.iitk.ac.in/~rajab/exam-end-sem.html"><b><u>End-Semester</u></b></a> Exam Schedule for particular roll no. Use LAN or FortiClint VPN .</li>
+				</ul>
+			</div>
+			<div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+				<h5 class="w3-opacity"><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="http://home.iitk.ac.in/~rajab/notes.html"><b>Course Materials</b></a></h5>
+				<p>Contains Lecture Materials, Relevant Books, Assignments, Quiz and Exam Papers.</p>
+				<ul type="circle">
+					<li>1st Year Institute Compulsory(IC) Courses : CHM101A, CHM102A, ESC101A, LIF101A, MTH101A, MTH102A, PHY101A, PHY102A, PHY103A, TA101A.</li>
+					<li>2nd Year Compulsory(IC) Courses : ESC201A, TA201A, TA202A, COM200. </li>
+					<li>Elementary Science Options : ESO's , MSO's , PSO, etc. </li>
+					<li>Humanities And Social Sciences (HSS) : ART's, ECO's, ENG's, PSY's, SOC's, etc. </li>
+					<li>Department Courses: Aerospace Engineering(AE), Biological Sciences and Bio-Engineering(BSBE), Civil Engineering(CE), Chemical Engineering(CHE), Computer Science and Engineering(CSE), Electrical Engineering(EE), Mechanical Engineering(ME), Materials Science and Engineering(MSE), Physics(PHY), Mathematics and Scientific Computing(MnC) / (MTH). </li>
+				</ul>
+			</div>
+			<div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+				<h5 class="w3-opacity"><i class="fa fa-search fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="http://home.iitk.ac.in/~rajab/student-search.html"><b>Student Search</b></a></h5>
+				<ul type="circle">
+				<li>Search for your friends in campus with their name, email, roll no, city, etc.</li>
+				<li>Only accessible for Insider : LAN or VPN.</li>
+				<li>How to set up <a href="https://drive.google.com/file/d/1COkYVcehuMaTIngtc2WLCAEGePMbt_1Y/view?usp=sharing">FortiClint SSL VPN</a> for Windows System.</li>
+				</ul>
+			</div>
+			<div class="w3-container w3-card-2 w3-white w3-margin-bottom">
+				<h5 class="w3-opacity"><i class="fa fa-telegram fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="http://unnat.iitd.ac.in/"><b>Unnat Bharat Abhiyan</b></a></h5>
+				<p>The Ministry of Human Resource Development (MHRD) has launched a programme called Unnat Bharat Abhiyan with an aim to connect institutions of higher education, including Indian Institutes of Technology (IITs), National Institutes of Technology (NITs) and Indian Institutes of Science Education & Research (IISERs) etc. with local communities to address the development challenges through appropriate technologies.</p>
+				<ul type="circle">
+<!--				<li><a style="color:red;" href="http://home.iitk.ac.in/~rajab/uba/index.html">Final Exam </a></li>   -->
+				<li>Press Release <a href="http://pib.nic.in/newsite/PrintRelease.aspx?relid=113018">(PIB)</a></li>
+				<li>UBA IIT Kanpur Facebook <a target="_blank" href="https://www.facebook.com/ubaiitk/">Page - UBA </a>.</li>
+				</ul>
+			</div>
+
+		<!-- End Right Column -->
+		</div>
+    
+	<!-- End Grid -->
+	</div>
+  
+<!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+<!--  
+	<p>Find me on social media.</p>
+	<i class="fa fa-facebook-official w3-hover-opacity"></i>
+	<i class="fa fa-instagram w3-hover-opacity"></i>
+	<i class="fa fa-snapchat w3-hover-opacity"></i>
+	<i class="fa fa-pinterest-p w3-hover-opacity"></i>
+	<i class="fa fa-twitter w3-hover-opacity"></i>
+	<i class="fa fa-linkedin w3-hover-opacity"></i> 
+-->
+	<p>Developed by <a href="https://www.facebook.com/1752912681629042" target="_blank">Raja Babu</a></p>
+	
+	<!-- hitwebcounter Code -->
+	<img src="http://hitwebcounter.com/counter/counter.php?page=6750823&style=0013&nbdigits=5&type=page&initCount=1" title="Total Visitors" Alt="Total Visitors"   border="0" align="center" > 
+	<br>
+	<br>
+</footer>
+
+</body>
+</html>
+
+
